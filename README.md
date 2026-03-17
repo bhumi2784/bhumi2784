@@ -50,14 +50,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhumi2784&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumi2784&theme=tokyonight" />
-</p>
-
----
 
 ## 🔥 Top Languages  
 
@@ -90,13 +82,7 @@
 
 ---
 
-## 🐍 Contribution Snake  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🎯 Goals  
 
@@ -106,10 +92,6 @@
 
 ---
 
-## ⭐ Fun Fact  
-💡 I love turning ideas into real-world applications with clean code!
-
----
 
 <p align="center">
   ⭐️ From <b>Bhumika Sharma</b>
